@@ -1,0 +1,12 @@
+{
+  "name": "mon-app-nodejs",
+  "version": "1.0.0",
+  "description": "Application Node.js déployée sur CloudCluster PaaS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
